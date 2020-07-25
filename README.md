@@ -1,2 +1,2 @@
 # jutge-vinga-bin
-Ninary distribution for jutge-vinga
+Binary distribution for jutge-vinga
